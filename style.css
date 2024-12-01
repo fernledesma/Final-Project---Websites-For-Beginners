@@ -1,0 +1,103 @@
+#logo {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+}
+#imglogo{
+    background: #333;
+    margin: 0;
+    padding: 0;
+}
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+.option {
+    float: left;
+}
+h1 {
+    font-family: "Moon Dance", sans-serif;
+    color: black;
+    font-weight: medium ; 
+    background-color: #CC1504;
+    margin: 0;
+    padding: 0;
+}
+.option a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.option a:hover {
+    background-color: #111;
+}
+#main{
+    height: auto;
+    width: 40%;
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #803029;
+}
+#div1 {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 20px;
+  }
+#div2 {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 20px;
+  }
+  #div3 {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 20px;
+  }
+  #div4 {
+    background-color: lightgrey;
+    width: 500px;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 20px;
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    width: 50px;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 20px;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+    width: 50px;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 20px;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    width: 50px;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 20px;
+    color: white;
+  }
